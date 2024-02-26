@@ -1,0 +1,802 @@
+[
+    {
+        "vacancy_title": "Консультант-бухгалтер 1С",
+        "town": "Ташкент",
+        "salary_from": 8200000,
+        "salary_to": 25000000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92666326"
+    },
+    {
+        "vacancy_title": "Специалист по развитию территории (Sales Development Executive), проект Philip Morris International",
+        "town": "Нукус",
+        "salary_from": 7400000,
+        "salary_to": 10000000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93662464"
+    },
+    {
+        "vacancy_title": "Frontend разработчик / Верстальщик",
+        "town": "Ташкент",
+        "salary_from": 5000000,
+        "salary_to": 8000000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93614706"
+    },
+    {
+        "vacancy_title": "Стажер IT",
+        "town": "Ташкент",
+        "salary_from": 2000000,
+        "salary_to": null,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/90564268"
+    },
+    {
+        "vacancy_title": "Backend разработчик",
+        "town": "Алматы",
+        "salary_from": 1000000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93429262"
+    },
+    {
+        "vacancy_title": "Frontend-разработчик",
+        "town": "Астана",
+        "salary_from": 500000,
+        "salary_to": 800000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93598525"
+    },
+    {
+        "vacancy_title": "Frontend developer",
+        "town": "Алматы",
+        "salary_from": 500000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93577137"
+    },
+    {
+        "vacancy_title": "IT-директор",
+        "town": "Томск",
+        "salary_from": 420000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93692760"
+    },
+    {
+        "vacancy_title": "Тестировщик комфорта квартир",
+        "town": "Воронеж",
+        "salary_from": 350000,
+        "salary_to": 450000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93353083"
+    },
+    {
+        "vacancy_title": "Начинающий инженер",
+        "town": "Алматы",
+        "salary_from": 350000,
+        "salary_to": 750000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93627149"
+    },
+    {
+        "vacancy_title": "Frontend-разработчик",
+        "town": "Уральск",
+        "salary_from": 200000,
+        "salary_to": 1000000,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93678548"
+    },
+    {
+        "vacancy_title": "Руководитель отдела снабжения и склада",
+        "town": "Москва",
+        "salary_from": 200000,
+        "salary_to": 300000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93681790"
+    },
+    {
+        "vacancy_title": "Structural Engineer (Samsung Engineering Co., Ltd)",
+        "town": "Южная Корея",
+        "salary_from": 200000,
+        "salary_to": 250000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92595715"
+    },
+    {
+        "vacancy_title": "Помощник веб-программиста",
+        "town": "Алматы",
+        "salary_from": 200000,
+        "salary_to": 600000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92642629"
+    },
+    {
+        "vacancy_title": "Главный бухгалтер (в единственном числе)",
+        "town": "Москва",
+        "salary_from": 200000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93682751"
+    },
+    {
+        "vacancy_title": "Junior Web Developer",
+        "town": "Алматы",
+        "salary_from": 180000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93469672"
+    },
+    {
+        "vacancy_title": "Программист-разработчик (Junior)",
+        "town": "Алматы",
+        "salary_from": 150000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93608736"
+    },
+    {
+        "vacancy_title": "Ведущий специалист документооборота",
+        "town": "Москва",
+        "salary_from": 120000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93353470"
+    },
+    {
+        "vacancy_title": "Backend-разработчик",
+        "town": "Алматы",
+        "salary_from": 100000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93421756"
+    },
+    {
+        "vacancy_title": "Middle Python Developer",
+        "town": "Санкт-Петербург",
+        "salary_from": 100000,
+        "salary_to": 120000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92281844"
+    },
+    {
+        "vacancy_title": "Офис-менеджер",
+        "town": "Санкт-Петербург",
+        "salary_from": 90000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93615149"
+    },
+    {
+        "vacancy_title": "Junior Golang разработчик",
+        "town": "Рязань",
+        "salary_from": 80000,
+        "salary_to": 120000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93609106"
+    },
+    {
+        "vacancy_title": "Junior Python Developer",
+        "town": "Санкт-Петербург",
+        "salary_from": 70000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93361633"
+    },
+    {
+        "vacancy_title": "Java EE разработчик (стажер)",
+        "town": "Москва",
+        "salary_from": 60000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93622715"
+    },
+    {
+        "vacancy_title": "Junior+ Frontend developer",
+        "town": "Москва",
+        "salary_from": 50000,
+        "salary_to": 90000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93735388"
+    },
+    {
+        "vacancy_title": "Стажер-разработчик Python",
+        "town": "Оренбург",
+        "salary_from": 50000,
+        "salary_to": 50000,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/92363159"
+    },
+    {
+        "vacancy_title": "Junior Front End разработчик / HTML-Верстальщик",
+        "town": "Нижний Новгород",
+        "salary_from": 50000,
+        "salary_to": 90000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93610182"
+    },
+    {
+        "vacancy_title": "Web-разработчик",
+        "town": "Москва",
+        "salary_from": 50000,
+        "salary_to": 100000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93740824"
+    },
+    {
+        "vacancy_title": "Ученик/React - разработчик",
+        "town": "Волгоград",
+        "salary_from": 40000,
+        "salary_to": 90000,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93729867"
+    },
+    {
+        "vacancy_title": "Frontend-разработчик",
+        "town": "Санкт-Петербург",
+        "salary_from": 40000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93483136"
+    },
+    {
+        "vacancy_title": "Junior Python-разработчик",
+        "town": "Москва",
+        "salary_from": 40000,
+        "salary_to": 60000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93106678"
+    },
+    {
+        "vacancy_title": "Junior Frontend Developer",
+        "town": "Санкт-Петербург",
+        "salary_from": 40000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93199916"
+    },
+    {
+        "vacancy_title": "Frontend разработчик программист",
+        "town": "Курган",
+        "salary_from": 35000,
+        "salary_to": 100000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93539110"
+    },
+    {
+        "vacancy_title": "Стажер frontend разработчик",
+        "town": "Москва",
+        "salary_from": 30000,
+        "salary_to": null,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93633056"
+    },
+    {
+        "vacancy_title": "Front-end разработчик",
+        "town": "Омск",
+        "salary_from": 30000,
+        "salary_to": 40000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93545627"
+    },
+    {
+        "vacancy_title": "Junior backend-разработчик",
+        "town": "Рязань",
+        "salary_from": 30000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92361867"
+    },
+    {
+        "vacancy_title": "Веб-разработчик",
+        "town": "Москва",
+        "salary_from": 30000,
+        "salary_to": 100000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93725669"
+    },
+    {
+        "vacancy_title": "Начинающий QA инженер (тестировщик ПО)",
+        "town": "Москва",
+        "salary_from": 30000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93631770"
+    },
+    {
+        "vacancy_title": "Разработчик \\ Программист Junior Unity",
+        "town": "Воронеж",
+        "salary_from": 25000,
+        "salary_to": 35000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93610226"
+    },
+    {
+        "vacancy_title": "Стажёр / Web-разработчик",
+        "town": "Санкт-Петербург",
+        "salary_from": 20000,
+        "salary_to": 20000,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93632293"
+    },
+    {
+        "vacancy_title": "Web-программист",
+        "town": "Ростов-на-Дону",
+        "salary_from": 20000,
+        "salary_to": 100000,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/93739592"
+    },
+    {
+        "vacancy_title": "Стажер-программист Python",
+        "town": "Тюмень",
+        "salary_from": 16000,
+        "salary_to": 18000,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93576457"
+    },
+    {
+        "vacancy_title": "Руководитель коммунального предприятия, Западная Африка (в Западную Африку)",
+        "town": "Санкт-Петербург",
+        "salary_from": 15000,
+        "salary_to": 25000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93699297"
+    },
+    {
+        "vacancy_title": "Руководитель коммунального предприятия, Западная Африка (в Западную Африку)",
+        "town": "Москва",
+        "salary_from": 15000,
+        "salary_to": 25000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93699296"
+    },
+    {
+        "vacancy_title": "Стажёр-тестировщик сайтов и мобильных приложений",
+        "town": "Москва",
+        "salary_from": 15000,
+        "salary_to": 30000,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/92556865"
+    },
+    {
+        "vacancy_title": "Trainee/Intern/Junior Python backend developer",
+        "town": "Санкт-Петербург",
+        "salary_from": 10000,
+        "salary_to": 60000,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93725652"
+    },
+    {
+        "vacancy_title": "Frontend-разработчик",
+        "town": "Витебск",
+        "salary_from": 3500,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93592908"
+    },
+    {
+        "vacancy_title": "Frontend developer (React.js, Next.js)",
+        "town": "Минск",
+        "salary_from": 3000,
+        "salary_to": 6000,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/93708464"
+    },
+    {
+        "vacancy_title": "Сотрудник техподдержки",
+        "town": "Минск",
+        "salary_from": 2500,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93518272"
+    },
+    {
+        "vacancy_title": "Frontend-разработчик",
+        "town": "Минск",
+        "salary_from": 2000,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93609053"
+    },
+    {
+        "vacancy_title": "Инженер-программист",
+        "town": "Брест",
+        "salary_from": 1800,
+        "salary_to": null,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93432460"
+    },
+    {
+        "vacancy_title": "Electrical IT Specialist",
+        "town": "Москва",
+        "salary_from": 1000,
+        "salary_to": 3000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93691950"
+    },
+    {
+        "vacancy_title": "Junior Java Developer",
+        "town": "Гродно",
+        "salary_from": 600,
+        "salary_to": 1500,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93719641"
+    },
+    {
+        "vacancy_title": "Frontend-разработчик",
+        "town": "Ташкент",
+        "salary_from": 500,
+        "salary_to": 650,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93126641"
+    },
+    {
+        "vacancy_title": "Программист Python junior",
+        "town": "Минск",
+        "salary_from": 300,
+        "salary_to": 1000,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92292020"
+    },
+    {
+        "vacancy_title": "Программист - разработчик Junior NET C# ASP Java",
+        "town": "Заславль",
+        "salary_from": 200,
+        "salary_to": 400,
+        "employment": "Частичная занятость",
+        "url": "https://hh.ru/vacancy/93530205"
+    },
+    {
+        "vacancy_title": "Стажер в IT стартап проект",
+        "town": "Гомель",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93720451"
+    },
+    {
+        "vacancy_title": "Frontend-разработчик",
+        "town": "Ташкент",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93704401"
+    },
+    {
+        "vacancy_title": "Back-end разработчик (Odoo framework разработчик)",
+        "town": "Ташкент",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93151953"
+    },
+    {
+        "vacancy_title": "Junior разработчик на C# / ASP.NET (удаленно)",
+        "town": "Ташкент",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93690582"
+    },
+    {
+        "vacancy_title": "Программист 1С / Стажер 1С",
+        "town": "Нукус",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93701680"
+    },
+    {
+        "vacancy_title": "Frontend-разработчик",
+        "town": "Санкт-Петербург",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93739468"
+    },
+    {
+        "vacancy_title": "Frontend - React or Vue специалист",
+        "town": "Ташкент",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93565418"
+    },
+    {
+        "vacancy_title": "Стажер-программист Python",
+        "town": "Санкт-Петербург",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93099256"
+    },
+    {
+        "vacancy_title": "Стажер-программист Python",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93099255"
+    },
+    {
+        "vacancy_title": "Web-программист - стажер",
+        "town": "Алматы",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93597402"
+    },
+    {
+        "vacancy_title": "Стажер-разработчик Python",
+        "town": "Нижний Новгород",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93739570"
+    },
+    {
+        "vacancy_title": "Senior HSE Manager",
+        "town": "Астана",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93627718"
+    },
+    {
+        "vacancy_title": "Стажёр-Backend Разработчик",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93741391"
+    },
+    {
+        "vacancy_title": "IT Sales assistant",
+        "town": "Минск",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92874687"
+    },
+    {
+        "vacancy_title": "Junior React Developer",
+        "town": "Минск",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93614761"
+    },
+    {
+        "vacancy_title": "Junior Python-разработчик",
+        "town": "Караганда",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93696895"
+    },
+    {
+        "vacancy_title": "Frontend-разработчик ReactJS",
+        "town": "Алматы",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93477586"
+    },
+    {
+        "vacancy_title": "Стажер-программист JS React",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93099337"
+    },
+    {
+        "vacancy_title": "Middle Python Developer",
+        "town": "Заславль",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93660229"
+    },
+    {
+        "vacancy_title": "Менеджер по продажам",
+        "town": "Минск",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92837064"
+    },
+    {
+        "vacancy_title": "Стажер-программист JS React",
+        "town": "Санкт-Петербург",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93099338"
+    },
+    {
+        "vacancy_title": "Стажер-программист Java",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93627305"
+    },
+    {
+        "vacancy_title": "Java developer",
+        "town": "Ташкент",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93461997"
+    },
+    {
+        "vacancy_title": "Разработчик Back-end",
+        "town": "Ташкент",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93657860"
+    },
+    {
+        "vacancy_title": "Персональный ассистент руководителя",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/91076289"
+    },
+    {
+        "vacancy_title": "UX/UI Designer",
+        "town": "Минск",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93552402"
+    },
+    {
+        "vacancy_title": "Стажер-разработчик",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/89359893"
+    },
+    {
+        "vacancy_title": "Backend разработчик",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93647544"
+    },
+    {
+        "vacancy_title": "Стажёр QA",
+        "town": "Санкт-Петербург",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93626500"
+    },
+    {
+        "vacancy_title": "Internship Business Analysis",
+        "town": "Ташкент",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93662610"
+    },
+    {
+        "vacancy_title": "Django Python Developer",
+        "town": "Минск",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/92999127"
+    },
+    {
+        "vacancy_title": "Junior front-end разработчик (React JS)",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93366665"
+    },
+    {
+        "vacancy_title": "Frontend-разработчик (Junior)",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93162511"
+    },
+    {
+        "vacancy_title": "React Developer",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93656057"
+    },
+    {
+        "vacancy_title": "Стажёр React Разработчик / React Developer",
+        "town": "Санкт-Петербург",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Стажировка",
+        "url": "https://hh.ru/vacancy/93626815"
+    },
+    {
+        "vacancy_title": "Project Manager (Development)",
+        "town": "Польша",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93736236"
+    },
+    {
+        "vacancy_title": "Python-разработчик",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93483545"
+    },
+    {
+        "vacancy_title": "Инженер-разработчик нефтяных и газовых месторождений",
+        "town": "Атырау",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93424940"
+    },
+    {
+        "vacancy_title": "Junior DevOps Engineer / SysOps Engineer",
+        "town": "Минск",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93708178"
+    },
+    {
+        "vacancy_title": "Junior Frontend Developer",
+        "town": "Владимир",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93561571"
+    },
+    {
+        "vacancy_title": "IOS Разработчик",
+        "town": "Алматы",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93664523"
+    },
+    {
+        "vacancy_title": "Junior java developer",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93488577"
+    },
+    {
+        "vacancy_title": "Стажер Android разработчик",
+        "town": "Москва",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93616721"
+    },
+    {
+        "vacancy_title": "Тестировщик junior",
+        "town": "Екатеринбург",
+        "salary_from": 0,
+        "salary_to": 0,
+        "employment": "Полная занятость",
+        "url": "https://hh.ru/vacancy/93424696"
+    }
+]
