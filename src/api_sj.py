@@ -2,9 +2,7 @@ import requests
 from src.vacancy import Vacancy
 from src.abc import GetVacancies
 
-#SUPERJOB_API_KEY = os.environ.get('SUPERJOBAPI')
-SUPERJOB_API_KEY = 'v3.r.138064661.848dcf25925881eac0c70eb234aecc186870c3c1.e0055205ee1500be25ebcabf318ae99fe5d8a158'
-
+SUPERJOB_API_KEY = os.environ.get('SUPERJOBAPI')
 
 
 class SuperJobAPI(GetVacancies):
